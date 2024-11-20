@@ -22,8 +22,7 @@ lightBox.close();
 
 Faire le code CSS pour la mise ne forme du dialogue (étant ouvert !).
 
-Vous devez obtenir :\
-https://moodle.univ-fcomte.fr/draftfile.php/60882/user/draft/447498318/lightbox.mp4
+Vous devez obtenir comme la vidéo sur Moodle.
 
 [::backdrop](https://developer.mozilla.org/fr/docs/Web/CSS/::backdrop) pour la mise en forme du fond.
 
