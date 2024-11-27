@@ -30,6 +30,8 @@ Vous devez obtenir comme la vidéo sur Moodle.
 
 # Code JS
 
+Pour montrer le dialogue, utiliser la méthode [showModal](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/showModal) et fait qu'un click sur lui le ferme ([close](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/close)).
+
 Faire qu'un clic sur une miniature ouvre l'image correspondante (attribut `data-full-img`). Lire le "data attribute" par la propriété [dataset](https://developer.mozilla.org/fr/docs/Web/API/HTMLElement/dataset)
 
 **Faire de nombreux commits pour chaque étape**
